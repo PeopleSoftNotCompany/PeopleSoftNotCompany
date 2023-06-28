@@ -9,7 +9,8 @@
 - But yeah People Soft Goes hard.
 
 - Why bother making this?
-- A. My own use.  If someone actually manages to get some use out of this I will have succeded.
+- A. My own use.  If someone actually manages to get some use out of this I will have succeded in doing something that contributes beyond myself.
+- Goodness knows I've been helped out by being inspired by others. 
 
 <!---
 PeopleSoftNotCompany/PeopleSoftNotCompany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
